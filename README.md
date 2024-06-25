@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-henrique-lima-barreto-344a1624a/)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelohrnq@gmail.com)
-[![Digital Portfolio](https://img.shields.io/website?label=Portif%C3%B3lio%20Digital&style=for-the-badge&url=https://sites.google.com/view/marcelo-barreto)
+.[![Digital Portfolio](https://img.shields.io/website?label=Portif%C3%B3lio%20Digital&style=for-the-badge&url=https://sites.google.com/view/marcelo-barreto)
 
 ![MarcBarreto GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcBarreto&show_icons=true&theme=highcontrast)
 

@@ -32,7 +32,7 @@ I hold a Bachelor's degree in Computer Science from the Federal University of Se
 
 
 
-## Databases and Data Storage:
+### Databases and Data Storage:
 
 | MySQL | PostgresSQL | MongoDB
 |----------|----------|----------|
@@ -40,10 +40,10 @@ I hold a Bachelor's degree in Computer Science from the Federal University of Se
 
 
 
-## Tools and Utilities:
+### Tools and Utilities:
 
 | Selenium | Docker | Linux | Jupyter | Anaconda | RStudio | Git | NodeJS | VS Code
-|----------|----------|----------|-------|-------|
+|----------|----------|----------|-------|-------|-------|-------|-------|-------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="55" height="55"/>|  <img src="hhttps://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="55" height="55"/>|
 
 </div>

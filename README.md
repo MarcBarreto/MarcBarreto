@@ -19,7 +19,7 @@ I hold a Bachelor's degree in Computer Science from the Federal University of Se
 
 ### Languages:
 | Python3 | C++ | R | Julia
-|----------|----------|----------|-----|
+|----------|----------------|----------|-----|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++"  alt="C++" width="55" height="55"/> |  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" title="R" alt="R" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="Julia" alt="Julia" width="55" height="55"/>|
 
   

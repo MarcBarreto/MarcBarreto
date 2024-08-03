@@ -15,17 +15,22 @@ I hold a Bachelor's degree in Computer Science from the Federal University of Se
 [![Digital Portfolio](https://img.shields.io/website?label=Digital%20Portfolio&style=for-the-badge&url=https://sites.google.com/view/marcelo-barreto)](https://sites.google.com/view/marcelo-barreto)
 
 ## Programming Languages and Frameworks:
-<div style="display: inline_block"><br/>
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img align="center" alt="Pytorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-  <img align="center" alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img align="center" alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
-  <br><br>
-  <img align="center" alt="Mlflow" src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue"/>
-  <img align="center" alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</div><br/>
+<div>
+
+### Languages:
+| Python3 | C++ | R | Julia
+|----------|----------|----------|-----|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++"  alt="C++" width="55" height="55"/> |  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" title="R" alt="R" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="Julia" alt="Julia" width="55" height="55"/>|
+
+  
+
+### Frameworks:
+
+| Pytorch | Tensorflow | Keras | Mlflow | Scikit-learn
+|----------|----------|----------|-------|-------|
+|  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" title="Pytorch"  alt="Pytorch" width="55" height="55"/> |  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" title="Tensorflow"  alt="Tensorflow" width="55" height="55"/> |  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" title="Keras" alt="Keras" width="55" height="55"/> |  <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" title="Mlflow" alt="Mlflow" width="55" height="55"/>|  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" title="Scikit-learn" alt="Scikit-learn" width="55" height="55"/>|
+
+</div>
 
 ## Databases and Data Storage:
 <div>

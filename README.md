@@ -30,17 +30,15 @@ I hold a Bachelor's degree in Computer Science from the Federal University of Se
 |----------|----------|----------|-------|-------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow"  alt="Tensorflow" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="55" height="55"/> |  <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" title="Mlflow" alt="Mlflow" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" alt="Scikit-learn" width="55" height="55"/>|
 
-</div>
 
-  
 
 ## Databases and Data Storage:
 
-<div>
 | MySQL | PostgresSQL | MongoDB
 |----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySql"  alt="MySql" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgresSQL"  alt="PostgresSQL" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/> |
-</div>
+
+
 
 ## Tools and Utilities:
 <div>

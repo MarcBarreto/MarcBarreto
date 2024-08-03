@@ -36,7 +36,7 @@ I hold a Bachelor's degree in Computer Science from the Federal University of Se
 
 ## Databases and Data Storage:
 <div>
-  | MySQL | PostgresSQL | MongoDB
+| MySQL | PostgresSQL | MongoDB
 |----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySql"  alt="MySql" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgresSQL"  alt="PostgresSQL" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/> |
 </div><br/>

@@ -48,13 +48,6 @@ I hold a Bachelor's degree in Computer Science from the Federal University of Se
 
 </div>
 
-## Key Areas of Interest
-1. Artificial Intelligence
-2. Machine Learning
-3. Data Science
-4. Computer Vision
-5. Natural Language Processing
-
 ---
 
 <p align="center">

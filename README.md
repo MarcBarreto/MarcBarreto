@@ -32,11 +32,13 @@ I hold a Bachelor's degree in Computer Science from the Federal University of Se
 
 </div>
 
+  
+
 ## Databases and Data Storage:
 <div>
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img align="center" alt="PostgresSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  | MySQL | PostgresSQL | MongoDB
+|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySql"  alt="MySql" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgresSQL"  alt="PostgresSQL" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/> |
 </div><br/>
 
 ## Tools and Utilities:
